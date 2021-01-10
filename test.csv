@@ -1,0 +1,4 @@
+﻿table;column;key;type;nonull
+test;column1;1;serial;1
+test;column2;;integer;1
+test;column3;;varchar;
